@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,gBACI,UAAW,CACX,WAAY,CACZ,QAAS,CACT,SACJ,CAEA,KACI,wBAAyB,CACzB,cACJ","file":"main.6098b101.chunk.css","sourcesContent":["html,body,#root{\n    width: 100%;\n    height: 100%;\n    margin: 0;\n    padding: 0;\n}\n\nbody{\n    background-color: #f1f4f8;\n    position: fixed;\n}"]}
